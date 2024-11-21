@@ -14,7 +14,7 @@ body, html {
     z-index: -1;
     transform: translate(-50%, -50%);
 }
-.content {
+.container {
     position: relative;
     z-index: 1;
     color: white;
