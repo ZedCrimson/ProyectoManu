@@ -1,26 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="es">
 <head>
-    <link rel="stylesheet" href="index.css">
-	<title>Casino</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casino Locowin</title>
 </head>
-
 <body>
-
-    <video autoplay="autoplay" loop="loop" id="video_background" preload="auto" volume="50"/>
-        <source src="Recursos/index video.mp4" type="video/mp4" />
-    </video>
-
-    <div class="login">
-	<div class="container">
-		<div class="logo">Casino</div>
-		<form class="form" method="POST" action="login.php">
-			<input type="usuario" class="input" placeholder="Usuario" name="usuario" required>
-			<input type="password" class="input" placeholder="Contraseña" name="contraseña" required>
-			<button type="submit" class="button">Iniciar sesión</button>
-		</form>
-		
+    <header>
+        <h1 class="Bienvenido">¡Bienvenido a Casino Locowin!</h1>
+    </header>
+    <div class="Juegos">
+        <p>¿Listo para jugar? Aquí están nuestros juegos más populares:</p>
+        <ul>
+            <li>Ruleta</li>
+            <li>Blackjack</li>
+            <li>Máquinas Tragamonedas</li>
+            <li>Póker</li>
+        </ul>
+    </div>
+    <footer>
+        <p>&copy; <?php echo date("Y"); ?> Casino Estrella. Todos los derechos reservados.</p>
+    </footer>
 </body>
-
 </html>
