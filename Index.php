@@ -6,6 +6,12 @@
     <title>Casino Locowin</title>
 </head>
 <body>
+    <div class="video-background">
+        <video autoplay muted loop>
+            <source src="Recursos/index video.mp4" type="video/mp4">
+            Tu navegador no soporta video.
+        </video>
+    </div>
     <header>
         <h1 class="Bienvenido">¡Bienvenido a Casino Locowin!</h1>
     </header>
