@@ -2,14 +2,14 @@
 <html lang="en">
 
 <head>
+    <link rel="stylesheet" href="index.css">
 	<title>Casino</title>
 </head>
 
 <body>
 
-    <video autoplay muted loop id="video-background">
-        <source src="Recursos/index video.mp4" type="video/mp4">
-        Tu navegador no soporta HTML5 video.
+    <video autoplay="autoplay" loop="loop" id="video_background" preload="auto" volume="50"/>
+        <source src="Recursos/index video.mp4" type="video/mp4" />
     </video>
 
     <div class="login">
