@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="estilos/index.css">
+    <link rel="shortcut icon" href="Recursos/icono.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Casino Locowin</title>
@@ -15,7 +16,7 @@
            <div class="content">
             <h1>LOCOWIN</h1>
             <h2>¡Bienvenido a Casino Locowin!</h1>
-            <a href="login.php" class="btn">Iniciar Sesion</a>
+            <a href="Edad.php" class="btn">Iniciar Sesion</a>
            </div>
         </div>
 

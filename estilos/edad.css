@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-image: url(https://phantom-marca.unidadeditorial.es/a233ce19fb042f0e1121612639935e92/crop/0x38/721x518/resize/828/f/jpg/assets/multimedia/imagenes/2023/01/04/16728249714973.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn {
+    border: 10px;
+    padding: 15px 32px;
+    text-decoration: none;
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 15px;
+}
