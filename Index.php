@@ -7,6 +7,11 @@
 
 <body>
 
+    <video autoplay muted loop id="video-background">
+        <source src="Recursos/index video.mp4" type="video/mp4">
+        Tu navegador no soporta HTML5 video.
+    </video>
+
     <div class="login">
 	<div class="container">
 		<div class="logo">Casino</div>
