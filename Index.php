@@ -16,8 +16,6 @@
 			<button type="submit" class="button">Iniciar sesión</button>
 		</form>
 		
-        </div>
-	</div>
 </body>
 
 </html>
