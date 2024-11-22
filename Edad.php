@@ -13,7 +13,7 @@
         </audio>
     
         <h1>¿Tienes más de 18 años?</h1>
-        <a href="menu.php" class="btn">Si Señor Locowin</a>
+        <a href="login.php" class="btn">Si Señor Locowin</a>
         <a href="index.php" class="btn">No,soy podemita</a>
 
 </body>

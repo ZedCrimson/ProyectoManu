@@ -33,8 +33,8 @@
             Juegos
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Ruleta</a></li>
-            <li><a class="dropdown-item" href="#">BlackJack</a></li>
+            <li><a class="dropdown-item" href="Ruleta.php">Ruleta</a></li>
+            <li><a class="dropdown-item" href="Blackjack.php">Apuesta Deportiva</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Proximamente...</a></li>
           </ul>
@@ -88,6 +88,8 @@
     </div>
   </div>
 </div>
+
+
 
 </body>
 </html>
