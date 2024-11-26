@@ -30,16 +30,16 @@
                     <span class="h1 fw-bold mb-0">LOCOWIN</span>
                   </div>
 
-                  <h5 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;">Sign into your account</h5>
+                  <h5 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;">Conectate en tu cuenta</h5>
 
                   <div data-mdb-input-init class="form-outline mb-4">
                     <input type="email" id="form2Example17" class="form-control form-control-lg" />
-                    <label class="form-label" for="form2Example17">Email address</label>
+                    <label class="form-label" for="form2Example17">Email</label>
                   </div>
 
                   <div data-mdb-input-init class="form-outline mb-4">
                     <input type="password" id="form2Example27" class="form-control form-control-lg" />
-                    <label class="form-label" for="form2Example27">Password</label>
+                    <label class="form-label" for="form2Example27">Contraseña</label>
                   </div>
 
                   <div class="pt-1 mb-4">
@@ -47,8 +47,8 @@
                   </div>
 
                   
-                  <p class="mb-5 pb-lg-2" style="color: #393f81;">Don't have an account? <a href="#!"
-                      style="color: #393f81;">Register here</a></p>
+                  <p class="mb-5 pb-lg-2" style="color: #393f81;">¿No tienes una cuenta?<a href="Register.php"
+                      style="color: #393f81;">Registrate aquí</a></p>
                 </form>
 
               </div>
